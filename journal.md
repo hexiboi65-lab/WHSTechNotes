@@ -11,3 +11,9 @@ none i hated it.
 everything
 i dont know, i would  have to do more
 money, it bring money
+october 20 2025
+| Name     | Class | Seat |
+| :------- | :---- | :--- |
+| Franklin | second| 91a  |
+| Hardeep  | third | 6if  |
+| Marla    | first |35b   |
