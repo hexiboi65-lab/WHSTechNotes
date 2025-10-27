@@ -17,3 +17,8 @@ october 20 2025
 | Franklin | second| 91a  |
 | Hardeep  | third | 6if  |
 | Marla    | first |35b   |
+
+october 27 2025
+Fiona	Gado Gado	Creme Brulee
+Tobias	Shrimp Ceviche	French Apple Cake
+Leanne	Beef Wellington	Raspberry Tiramisu
