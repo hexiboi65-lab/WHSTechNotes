@@ -29,3 +29,5 @@ using that sentence i can not comment.
 i could not tell for better of worse.
 I think that devs should respect family customs.
 Everyone ahould respect family customs.
+December 8 2025
+Self-driving cars may fail to stop if cameras are blinded by glare or if the bus's stop arm is "occluded" by other vehicles. To fix this, I would program the AI to treat any detected school bus as a "no-go zone" the moment its hazard lights activate, regardless of whether the stop arm is visible. I would also use LiDAR to detect the 3D shape of the extended sign as a backup for the cameras. This "safety-first" logic ensures the car stops whenever a bus is stationary.
