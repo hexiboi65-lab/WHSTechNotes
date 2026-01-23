@@ -36,3 +36,17 @@ Self-driving cars may fail to stop if cameras are blinded by glare or if the bus
 
 January 6, 2026
 I used a microwave. I played on computer. I codded on my computer. I used my tv. I played on my Ps4.
+
+
+
+
+
+
+January 12,2026
+Safe spaces are essential on the internet, particularly in gaming and social platforms, to protect users from pervasive harassment, hate speech, and mental health risks. They provide a crucial refuge for marginalized groups and individuals to connect and express themselves without fear of abuse. In online games, these spaces offer a necessary pause for players to escape toxic behavior, reducing stress and increasing enjoyment. Developers have a moral and sometimes legal responsibility to design these spaces because leaving safety solely to users leads to high-stress, dangerous environments. By embedding safety-first thinking into the architecture—such as robust moderation tools and clear guidelines—developers prevent the burnout caused by users having to self-police. Ultimately, building secure digital communities ensures a healthier, more inclusive, and positive experience for all participants. 
+
+
+January 20, 2026
+
+Technology promotes a fairer society by democratizing education and work through online platforms, bridging geographical and physical barriers to access opportunities previously limited by location or disability, and empowering marginalized groups with information and tools for advocacy, thereby leveling the playing playing field for all. This matters because it expands economic mobility, fosters inclusivity, and ensures more diverse voices contribute to society, creating a more representative and just world for everyone. 
+
